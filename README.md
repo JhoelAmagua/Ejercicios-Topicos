@@ -14,8 +14,8 @@
 
 ### Aplicación
 
-![Screenshot](app.png)
+![Screenshot-small](app.png)
 
-### Archivo .txt guardado
+### Reproducción en forma circular desactivado
 
 ![Screenshot](app2.png)
