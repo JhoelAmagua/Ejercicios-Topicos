@@ -10,11 +10,11 @@
 
 ### Código funciones
 
-![Screenshot](Codigo2.JPG)
+![Screenshot](Codigo2-small.JPG)
 
 ### Aplicación
 
-![Screenshot-small](app.png)
+![Screenshot](app-small.png)
 
 ### Reproducción en forma circular desactivado
 
