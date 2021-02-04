@@ -14,8 +14,8 @@
 
 ### Aplicación
 
-![Screenshot](app1.JPG)
+![Screenshot](app1.jpg)
 
 ### Archivo .txt guardado
 
-![Screenshot](app2.JPG)
+![Screenshot](app2.jpg)
